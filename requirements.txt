@@ -1,0 +1,2 @@
+pip install sounddevice soundfile pandas openpyxl pyinstaller
+# environment ichiga shuni o'rnatsang buldi!
